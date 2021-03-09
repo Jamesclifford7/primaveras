@@ -1,0 +1,10 @@
+.connect div iframe, .connect div svg {
+    padding: 25px;
+    margin: 0 auto;
+    /* border: solid;
+    border-width: 1px; */
+}
+
+.connect div a:visited {
+    color: black
+}

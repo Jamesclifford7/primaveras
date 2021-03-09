@@ -10,9 +10,9 @@ function Home() {
         <div className="home">
             <Header/>
             <h1><Link to="/watch">WATCH</Link></h1>
-            <h1><Link>LISTEN</Link></h1>
-            <h1><Link>CONNECT</Link></h1>
-            <h1><Link>GET IN TOUCH</Link></h1>
+            <h1><Link to="/listen">LISTEN</Link></h1>
+            <h1><Link to="/connect">CONNECT</Link></h1>
+            <h1><Link to="/contact">GET IN TOUCH</Link></h1>
         </div>
     )
 }
