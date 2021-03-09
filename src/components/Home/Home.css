@@ -1,0 +1,24 @@
+/* .home {
+    background-image: url('../../images/flower_pattern.png'); 
+    background-image: url('https://media.giphy.com/media/3o7WIHtdLD2fXURIFG/giphy.gif');
+    background-image: url('https://media.giphy.com/media/l44Qqq69E0gTyqLwk/giphy.gif');
+    background-image: url('https://media.giphy.com/media/3o6fIYWU6HVdxrqmBO/giphy.gif');
+    background-size: cover;
+    height: 1000px;
+} */
+
+/* <iframe src="https://giphy.com/embed/3o7WIHtdLD2fXURIFG" width="354" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/television-90s-trippy-3o7WIHtdLD2fXURIFG">via GIPHY</a></p> */
+
+.home h1 {
+    font-size: 50px;
+    margin: 50px;
+}
+
+.home h1 a {
+    text-decoration: none;
+    color: white;
+}
+
+.home h1 a:hover {
+    text-decoration: underline;
+}
