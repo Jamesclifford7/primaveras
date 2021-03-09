@@ -7,6 +7,10 @@
     margin: 0 auto;
 }
 
+.connect div a:link {
+    color: black;
+}
+
 .connect div a:visited {
     color: black
 }
