@@ -1,4 +1,34 @@
 .listen .spotify {
     margin: 0 auto;
     margin-top: 70px;
+    width: 800px; 
+    height: 400px;
+}
+
+.listen .soundcloud {
+    width: 800px;
+    height: 100px;
+}
+
+/* media query for phone */
+
+@media all and (max-width: 400px) {
+    .listen .spotify {
+        width: 350px;
+        margin-top: 30px;
+        height: 250px;
+    }
+
+    .listen .soundcloud {
+        width: 350px;
+        height: 80px;
+    }
+}
+
+/* media query for tablet */
+
+@media all and (min-width: 450px) and (max-width: 1000px) {
+    .listen .spotify, .listen .soundcloud {
+        width: 650px;
+    }
 }

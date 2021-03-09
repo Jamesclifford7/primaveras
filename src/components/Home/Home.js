@@ -1,6 +1,4 @@
 import React from 'react'
-import pattern from '../../images/flower_pattern.png'
-import blackLogo from '../../images/Primaveras_black.png'
 import './Home.css'
 import { Link } from 'react-router-dom'
 import Header from '../Header/Header'
