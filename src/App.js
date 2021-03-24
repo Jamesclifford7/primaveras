@@ -1,11 +1,11 @@
 import React from 'react';
-import { Route, withRouter } from 'react-router-dom'
+import { Route, withRouter } from 'react-router-dom';
 import './App.css';
-import Home from './components/Home/Home'
-import Watch from './components/Watch/Watch'
-import Listen from './components/Listen/Listen'
-import Connect from './components/Connect/Connect'
-import Contact from './components/Contact/Contact'
+import Home from './components/Home/Home';
+import Watch from './components/Watch/Watch';
+import Listen from './components/Listen/Listen';
+import Connect from './components/Connect/Connect';
+import Contact from './components/Contact/Contact';
 
 class App extends React.Component {
 

@@ -3,7 +3,8 @@
 }
 
 .connect div svg, .connect div iframe {
-    padding: 25px;
+    /* padding: 25px; */
+    padding: 40px;
     margin: 0 auto;
 }
 
