@@ -1,3 +1,10 @@
+.watch {
+    background-image: url('https://media.giphy.com/media/wF1LLhfCezNqAcBPNZ/giphy.gif');
+    /* background-image: url('https://media.giphy.com/media/cx4tSBNyliubHpUY3Q/giphy.gif');  */
+    background-size: contain;
+    height: 1200px;
+}
+
 .watch iframe {
     display: block;
     margin: 0 auto;

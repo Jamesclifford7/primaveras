@@ -1,3 +1,10 @@
+.listen {
+    /* background-image: url('https://media.giphy.com/media/wF1LLhfCezNqAcBPNZ/giphy.gif'); */
+    background-image: url('https://media.giphy.com/media/cx4tSBNyliubHpUY3Q/giphy.gif'); 
+    background-size: contain;
+    height: 1200px;
+}
+
 .listen .spotify {
     margin: 0 auto;
     margin-top: 70px;
@@ -13,10 +20,14 @@
 /* media query for phone */
 
 @media all and (max-width: 400px) {
+    .listen .spotify, .listen .soundcloud {
+        margin-bottom: 15px;
+    }
+
     .listen .spotify {
         width: 350px;
         margin-top: 30px;
-        height: 250px;
+        height: 300px;
     }
 
     .listen .soundcloud {

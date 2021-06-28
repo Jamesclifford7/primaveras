@@ -5,10 +5,10 @@
   font-family: 'Poppins', sans-serif;
   /* background-image: url('https://media.giphy.com/media/3o6fIYWU6HVdxrqmBO/giphy.gif'); */
   /* background-image: url('https://media.giphy.com/media/Z69UDgjfRMjsY/giphy.gif'); */
-  background-image: url('https://media.giphy.com/media/ASNZFgrWMQGdgbFmxz/giphy.gif');
+  /* background-image: url('https://media.giphy.com/media/ASNZFgrWMQGdgbFmxz/giphy.gif');
   background-size: cover;
   background-size: contain;
-  height: 1200px;
+  height: 1200px; */
 }
 
 @media all and (max-width: 400px) {
